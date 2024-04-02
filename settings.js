@@ -42,7 +42,7 @@ global.autoswview = true //  ස්වයංක්‍රිය ස්ටෙට�
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'Avi1'
+global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
