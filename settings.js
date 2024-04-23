@@ -11,16 +11,16 @@ global.ytname = "YT: Avi Net Hunter✓"
 global.socialm = "GitHub: avishka33"
 global.location = "srilanka, southern, Galle"
 
-global.ownernumber = '916909137213'  //creator number
-global.ownername = 'DGXeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '94772836332'  //creator number
+global.ownername = '🗡️ AVI 🗡️' //owner name
+global.botname = ' AVI CRASH 😘' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = '🗡️ AVI 🗡️'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🗡️'
 global.wm = "Xeon Bot Inc."
 
 //theme link
@@ -36,7 +36,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
