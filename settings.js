@@ -1,20 +1,15 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//Avishka shavinda 
+
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "🦄Dream Guy Xeon"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "94772836332"
+global.ownername = "🗡️ AVI 🗡️"
+global.ytname = "YT: Avi Net Hunter✓"
+global.socialm = "GitHub: avishka33"
+global.location = "srilanka, southern, Galle"
 
 global.ownernumber = '916909137213'  //creator number
 global.ownername = 'DGXeon' //owner name
